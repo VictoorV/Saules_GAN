@@ -1,3 +1,2 @@
-# Bootstrap_MCMC
-La première partie de projet vise à estimer les paramètres d’un modèle via le maximum de vraisemblance et à construire des intervalles de confiance. Deux approches bootstrap, paramétrique et non paramétrique, sont utilisées pour calculer et comparer les intervalles de confiance et de prédiction, en fonction de la taille de l'échantillon.
-La deuxième partie de ce projet consiste à développer des outils pour encoder, décoder et analyser les fréquences de lettres dans un corpus. Un algorithme Markov Chain Monte-Carlo a été mis en place pour déchiffrer un message codé de manière efficace.
+# Saules_GAN
+J'ai participé à la création et à la gestion d'une base de données d'images de saules, tout en menant une étude théorique sur le traitement et la génération d'images. Dans le cadre de ce projet, j'ai développé et utilisé un GAN (Generative Adversarial Network) pour générer des images de saules, puis j'ai amélioré la qualité des images produites grâce à l'intégration d'un GAN de super-résolution. Je ne partage pas la base de données ni les codes.
